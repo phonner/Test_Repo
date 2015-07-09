@@ -1,5 +1,7 @@
 This is a markdown test.
 
+# This is the first heading.
+
 ##  Here's a list
 
 * first thing
